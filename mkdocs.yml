@@ -21,6 +21,7 @@ use_directory_urls: false
 
 nav:
   - "Home": index.md
+  - "Mastering ": mastering-multi-llm-api-platforms-a-global-guide-t.md
 # 新文章将在此处自动添加
 
 markdown_extensions:
